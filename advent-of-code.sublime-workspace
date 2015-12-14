@@ -1,0 +1,1040 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ha",
+				"has_double_letters"
+			],
+			[
+				"has",
+				"has_double_letter"
+			],
+			[
+				"eve",
+				"even_houses"
+			],
+			[
+				"hou",
+				"houses"
+			],
+			[
+				"get",
+				"get_smallest_perimeter"
+			],
+			[
+				"pro",
+				"process_to_limit"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"date",
+				"date_to_search"
+			],
+			[
+				"on",
+				"oneoffs"
+			],
+			[
+				"get_",
+				"get_module_logger"
+			],
+			[
+				"jo",
+				"jobs"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"job",
+				"jobs_for_abc"
+			],
+			[
+				"create",
+				"create_engine"
+			],
+			[
+				"test",
+				"test_filename"
+			],
+			[
+				"t",
+				"test_filename"
+			],
+			[
+				"boar",
+				"board_lists"
+			],
+			[
+				"geg",
+				"get_module_logger"
+			],
+			[
+				"tok",
+				"tokens"
+			],
+			[
+				"expected",
+				"expected_tokens"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"ACt",
+				"Active"
+			],
+			[
+				"CL",
+				"ClientID"
+			],
+			[
+				"Month",
+				"MonthlyInvoice"
+			],
+			[
+				"Mon",
+				"MonthlyInvoice"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"Mont",
+				"MonthlyInvoices"
+			],
+			[
+				"st",
+				"start_of_current_month"
+			],
+			[
+				"this",
+				"this_task_date"
+			],
+			[
+				"Da",
+				"DefaultRate"
+			],
+			[
+				"co",
+				"Column"
+			],
+			[
+				"logg",
+				"get_module_logger"
+			],
+			[
+				"all",
+				"all_previous"
+			],
+			[
+				"month",
+				"month_number"
+			],
+			[
+				"en",
+				"engine"
+			],
+			[
+				"num",
+				"numeric_id"
+			],
+			[
+				"de",
+				"declarative_base"
+			],
+			[
+				"inv",
+				"invoices"
+			],
+			[
+				"in",
+				"invoice"
+			],
+			[
+				"from",
+				"fromtimestamp"
+			],
+			[
+				"stat",
+				"staticmethod"
+			],
+			[
+				"Client",
+				"ClientID"
+			],
+			[
+				"one",
+				"oneoff"
+			],
+			[
+				"dat",
+				"date"
+			],
+			[
+				"Cliet",
+				"ClientID"
+			],
+			[
+				"ex",
+				"extra_id"
+			],
+			[
+				"active",
+				"active_only"
+			],
+			[
+				"nu",
+				"numeric_id"
+			],
+			[
+				"quer",
+				"query_rtn"
+			],
+			[
+				"qu",
+				"query_rtn"
+			],
+			[
+				"q",
+				"query_rtn"
+			],
+			[
+				"da",
+				"date_to_search"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"oneo",
+				"oneoff"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"cl",
+				"client_id"
+			],
+			[
+				"oneof",
+				"oneoffs"
+			],
+			[
+				"uni",
+				"unique_months"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"o",
+				"OperationalError"
+			],
+			[
+				"task",
+				"tasks_data"
+			],
+			[
+				"clie",
+				"client_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "d1.py",
+			"settings":
+			{
+				"buffer_size": 734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "d4.py",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Unix",
+				"name": "import sys"
+			}
+		},
+		{
+			"file": "d5.py",
+			"settings":
+			{
+				"buffer_size": 1118,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "d6.py",
+			"settings":
+			{
+				"buffer_size": 869,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 32.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/james/Github/advent-of-code"
+	],
+	"file_history":
+	[
+		"/home/james/Github/advent-of-code/d1.py",
+		"/home/james/Github/advent-of-code/d2.py",
+		"/home/james/Github/advent-of-code/d3.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/Tests/test_oneoff_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/views/job_views.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/oneoff_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/Tests/test_job_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/views/invoice_views.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/task_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/job_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/test_oneoff_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/client_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/invoice_controller.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/monthly_invoice_controller.py",
+		"/home/james/Github/TimeTracker/schema.sql",
+		"/home/james/Github/TimeTracker/TimeTracker/templates/invoices.template.html",
+		"/home/james/Github/TimeTracker/TimeTracker/templates/view.template.html",
+		"/home/james/Github/TimeTracker/TimeTracker/templates/tasks.template.html",
+		"/home/james/Github/TimeTracker/TimeTracker/templates/jobs.template.html",
+		"/home/james/Github/TimeTracker/TimeTracker/templates/invoice.template.html",
+		"/home/james/Github/TimeTracker/TimeTracker/templates/clients.template.html",
+		"/home/james/Github/TimeTracker/TimeTracker/trellotasks.py",
+		"/home/james/Github/TimeTracker/TimeTracker/utility.py",
+		"/home/james/ap_manager.cpp",
+		"/home/james/Github/TimeTracker/TimeTracker/views/char * s_ssids[32];",
+		"/home/james/Github/TimeTracker/run.py",
+		"/home/james/Github/TimeTracker/TimeTracker/db.py",
+		"/home/james/Github/TimeTracker/TimeTracker/__init__.py",
+		"/home/james/Github/TimeTracker/TimeTracker.cfg",
+		"/home/james/Github/TimeTracker/TimeTracker/views/__init__.py",
+		"/home/james/Documents/Scripts/password-helper.py",
+		"/home/james/Github/TimeTracker/run_test.py",
+		"/home/james/Github/TimeTracker/TimeTracker/controllers/Tests/job_controller.test.py",
+		"/home/james/Github/TimeTracker/TimeTracker/display_helper.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/base.py",
+		"/home/james/Documents/Code/TimeTracker/schema.sql",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/views/invoice_views.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/controllers/monthly_invoice_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/trellotasks.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/controllers/oneoff_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/views/client_views.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/static/invoice.css",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/invoice.template.pdf.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/invoices.template.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/views/job_views.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/jobs.template.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/views/task_views.py",
+		"/home/james/Documents/Code/TimeTracker/run.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker.cfg",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/__init__.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/flask_config",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/controllers/job_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/controllers/task_controller.py",
+		"/home/james/Documents/Code/TimeTracker/client_controller.py",
+		"/home/james/Documents/Code/TimeTracker/base.py",
+		"/home/james/Documents/Code/TimeTracker/templates/tasks.template.html",
+		"/home/james/Documents/Code/TimeTracker/task_controller.py",
+		"/home/james/Documents/Code/TimeTracker/db.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/display_helper.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/controllers/invoice_controller.py",
+		"/home/james/Documents/Code/TimeTracker/flask_config",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/.git/hooks/pre-push.sample",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/.git/hooks/pre-push",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/db.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/invoice_views.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/client_views.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/job_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/monthly_invoice_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/task_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/oneoff_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/invoice.template.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/invoice_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/task_views.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/tables.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/job_views.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/client_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/tasks.template.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/utility.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/task_job_controller.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/oneoff.template.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/forms.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/clients.template.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/static/invoices.js",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/utlity.py",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/clients.template.html~",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/jobs.template.html~",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/debug.args.html",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/static/view.css",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/view.template.html",
+		"/home/james/oneoffs",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/TimeTracker.sublime-workspace",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/templates/view.template.html~",
+		"/home/james/Documents/Code/re-innov/CSV_Viewer/datamanager_tests.py",
+		"/home/james/Documents/Code/re-innov/CSV_Viewer/datamanager.py",
+		"/home/james/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/james/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/views.py~",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/client_views.py~",
+		"/home/james/Documents/Code/TimeTracker/TimeTracker/TimeTracker.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/james/Github/TimeTracker/TimeTracker,-*.py~,-*.html~,-*.sublime*,-jquery.js",
+			"/home/james/Documents/GitHub/TimeTracker/TimeTracker,-*.py~,-*.html~,-*.sublime*,-jquery.js",
+			"/home/james/Documents/Github/TimeTracker/TimeTracker,-*.py~,-*.html~,-*.sublime*,-jquery.js",
+			"/home/james/Documents/Code/TimeTracker/TimeTracker,-*.py~,-*.html~,-*.sublime*,-jquery.js",
+			"/home/james/Documents/Code/TimeTracker/TimeTracker,-*.py~,-*.html~,-*.sublime*",
+			"/home/james/Documents/Code/TimeTracker/TimeTracker,-*.py~,'*.html~,-*.sublime*",
+			"/home/james/Documents/Code/TimeTracker/TimeTracker,-*.py~,-*.sublime*",
+			"/home/james/Documents/Code/TimeTracker/TimeTracker,-*.py~,*.sublime*",
+			"/home/james/Documents/Code/TimeTracker/TimeTracker,-*.py~",
+			"/home/james/Documents/Code/TimeTracker/TimeTracker"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"has_double_letter",
+			"naughty",
+			"dir",
+			"date",
+			"tzinfo",
+			"izinfo",
+			"txinfo",
+			"13",
+			",  Date=).insert()",
+			"tzinfo",
+			"oneoff",
+			"OneOff",
+			"e",
+			"DefaultRate",
+			"unittest",
+			"from_query",
+			"schema",
+			"day",
+			"extract",
+			"page_title",
+			"'invoices'",
+			"url_for('invoices')",
+			"logging.basic",
+			"get_months_when_worked_for_client",
+			"get_all_for_client",
+			"@app.route",
+			"test_client",
+			"[job.Name for job in active_jobs_for_abc]",
+			"[job.Name for job in active_jobs]",
+			"job = ",
+			"20.00",
+			"DefaultRate",
+			"jobs_for_abc",
+			"sys.argv",
+			"insert",
+			"connect_db",
+			"job_controller",
+			"Hide inactive",
+			"active_jobs_for_client",
+			"active_jobs",
+			"all_jobs_for_client",
+			"deactivate",
+			"check_job_name_exists_or_error",
+			".base",
+			"delete",
+			"g.db",
+			".db",
+			"from db",
+			"import db",
+			"DATABASE",
+			"schema",
+			"utc",
+			"from_id_date_num",
+			"generate_monthly_task_info",
+			"task_str",
+			"get_from_client",
+			"MonthlyInvoice",
+			"get_from_client_id_date",
+			"£",
+			"trello_data",
+			"generate_oneoff_task_info",
+			"generate_monthly_task_info",
+			"get_module_logger",
+			"info",
+			"generate_monthly_task_info",
+			"generate_add_task_info",
+			"check_client_id_exists_or_add_error",
+			"get_client_id_and_job",
+			"generate_add_task_info",
+			"get_tasks",
+			"Parse of",
+			"r.t",
+			"r.client_controller import",
+			"client_controller import",
+			"trello",
+			"CONFIG",
+			"TRACKER_CONFIG",
+			"delete",
+			"remove",
+			"delete",
+			"Create",
+			"DbError",
+			"delete",
+			"DBError",
+			"insert",
+			"insert([a-z])",
+			"insert",
+			"commit",
+			"commit()",
+			"insert",
+			"update",
+			"get_client_id",
+			"update",
+			"import select",
+			"select",
+			"commit",
+			"select",
+			"get_months_when_worked_for_client",
+			"insert",
+			"MonthlyInvoice",
+			"jsonify",
+			"flash",
+			"url_for",
+			"redirect",
+			"request",
+			"render_template",
+			"get_months_when_worked_for_client",
+			"select",
+			"from_data_dict",
+			".job",
+			".desc",
+			"description",
+			"_rate",
+			"_start",
+			"_finish",
+			"get_sql_name_list",
+			"task_job_controller",
+			"get_for_job",
+			"month_lookup",
+			"client.name",
+			"job_name",
+			"showing tasks",
+			"render_jobs_table",
+			"client.name",
+			".name",
+			"job.name",
+			"get_all_for_client",
+			"get_for_job"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"get_client_data_for_month_for_render",
+			"get_monthly_invoices_for_client",
+			"format_address_for_display"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "d1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								626,
+								626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "d4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import sys",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "d5.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "d6.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 282.0
+	},
+	"pinned_build_system": "",
+	"project": "advent-of-code.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"one",
+				"TimeTracker/controllers/oneoff_controller.py"
+			],
+			[
+				"job",
+				"TimeTracker/views/job_views.py"
+			],
+			[
+				"client",
+				"TimeTracker/views/client_views.py"
+			],
+			[
+				"tr",
+				"TimeTracker/trellotasks.py"
+			],
+			[
+				"ta",
+				"templates/tables.html"
+			],
+			[
+				"templa",
+				"templates/jobs.template.html"
+			],
+			[
+				"tables",
+				"templates/tables.html"
+			],
+			[
+				"jobs",
+				"templates/jobs.template.html"
+			],
+			[
+				"form",
+				"templates/forms.html"
+			],
+			[
+				"template",
+				"templates/jobs.template.html"
+			],
+			[
+				"clien",
+				"client_views.py"
+			],
+			[
+				".html",
+				"templates/invoices.template.html"
+			],
+			[
+				".js",
+				"static/invoices.js"
+			],
+			[
+				"invoic",
+				"invoice_views.py"
+			],
+			[
+				"oneoff",
+				"templates/oneoff.template.html"
+			],
+			[
+				"inv",
+				"invoice_controller.py"
+			],
+			[
+				"table",
+				"templates/tables.html"
+			],
+			[
+				"invoice",
+				"invoice_controller.py"
+			],
+			[
+				"on",
+				"templates/oneoff.template.html"
+			],
+			[
+				"invoi",
+				"invoice_views.py"
+			],
+			[
+				"month",
+				"monthly_invoice_controller.py"
+			],
+			[
+				"db",
+				"db.py"
+			],
+			[
+				"task",
+				"task_job_controller.py"
+			],
+			[
+				"css",
+				"static/view.css"
+			],
+			[
+				"jo",
+				"job_views.py"
+			],
+			[
+				"task_",
+				"task_job_controller.py"
+			],
+			[
+				"tem",
+				"templates/invoices.template.html"
+			],
+			[
+				"dis",
+				"display_helper.py"
+			],
+			[
+				"displa",
+				"display_helper.py"
+			],
+			[
+				"mon",
+				"monthly_invoice_controller.py"
+			],
+			[
+				".py",
+				"__init__.py"
+			],
+			[
+				"view",
+				"templates/view.template.html"
+			],
+			[
+				"con",
+				"task_job_controller.py"
+			],
+			[
+				"invoices",
+				"invoice_views.py"
+			],
+			[
+				"clie",
+				"client_controller.py"
+			],
+			[
+				"invo",
+				"invoice_controller.py"
+			],
+			[
+				"app",
+				"display_helper.py"
+			],
+			[
+				"tempalte",
+				"templates/tasks.template.html"
+			],
+			[
+				"tasks",
+				"templates/tasks.template.html"
+			],
+			[
+				"pdf.",
+				"templates/invoice.template.pdf.html"
+			],
+			[
+				"jobs.",
+				"templates/jobs.template.html"
+			],
+			[
+				"cli",
+				"client_controller.py"
+			],
+			[
+				"contro",
+				"client_controller.py"
+			],
+			[
+				"templ",
+				"templates/invoice.template.html"
+			],
+			[
+				"temp",
+				"templates/invoices.template.html"
+			],
+			[
+				"pdf.html",
+				"templates/invoice.template.pdf.html"
+			],
+			[
+				"helper",
+				"display_helper.py"
+			],
+			[
+				"contr",
+				"task_job_controller.py"
+			],
+			[
+				"view.",
+				"templates/view.template.html"
+			],
+			[
+				"",
+				"__init__.py"
+			],
+			[
+				"controll",
+				"task_job_controller.py"
+			],
+			[
+				"in",
+				"client_views.py"
+			],
+			[
+				"jobs.t",
+				"templates/jobs.template.html"
+			],
+			[
+				"_con",
+				"task_job_controller.py"
+			],
+			[
+				"tas",
+				"task_views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
