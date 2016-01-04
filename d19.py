@@ -1,4 +1,5 @@
 import sys
+from random import shuffle
 
 from collections import namedtuple
 from itertools import chain
@@ -43,12 +44,59 @@ def find_replacements(replacement, molecule):
         new_molecules.append(''.join(new_molecule))
   
     return new_molecules
-    
+
+def has_at_least_one_substring(haystack, needles):
+    return any([needle in haystack for needle in needles])
+
+def get_replacement_to_list(replacements):
+    return [r.to for r in replacements]
+
+def replace_to_with_from(molecule, replacements):
+    this_count = 0
+    for replacement in replacements:
+        if replacement.to in molecule:
+            this_count += molecule.count(replacement.to)
+            molecule = molecule.replace(replacement.to, replacement.frm)
+            print(molecule)
+
+    return molecule, this_count
+
+def reduce_molecule(molecule, replacements):
+
+    this_count = 0
+    to_list = get_replacement_to_list(replacements)
+
+    while has_at_least_one_substring(molecule, to_list):
+        molecule, count = replace_to_with_from(molecule, replacements)
+        this_count += count
+
+    return molecule, this_count
+
+def find_shortest_path(molecule, replacements, target):
+    this_count = 0
+    while molecule != target:
+        molecule, count = reduce_molecule(molecule, replacements)
+        this_count += count
+        if count == 0:
+            shuffle(replacements)
+            molecule = original
+            this_count = 0
+
+    return this_count
+
 if __name__ == "__main__":
 
     replacements, molecule = read_input()
 
+    # Part 1
     new_molecules = [find_replacements(r, molecule) for r in replacements]
     new_molecules = list(chain(*new_molecules))
 
     print(len(set(new_molecules)))
+
+    # Part 2
+
+    original = molecule
+    count = find_shortest_path(molecule, replacements, "e")
+    
+    print(count)
