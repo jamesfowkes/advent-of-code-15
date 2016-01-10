@@ -99,7 +99,11 @@ def all_loadouts(shop, reverse=False):
             for r in get_ring_options(n_rings):
                 loadouts.append( Loadout(weapon=w, armor=a, rings=r) )
 
+<<<<<<< HEAD
     return iter( sorted(loadouts, key=lambda l: cost(l, shop), reverse=reverse) )
+=======
+    return sorted(loadouts, key=lambda l: cost(l, shop), reverse=reverse)
+>>>>>>> faf33848a35073b46a29343dc0f1f26ea7de650b
 
 def cost(loadout, shop):
     cost = shop.weapons[loadout.weapon].cost
